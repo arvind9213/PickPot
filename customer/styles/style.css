@@ -1,0 +1,63 @@
+html *
+{
+   color: red !important;
+        font-family: 'Lato', serif;
+}
+
+.navbar{
+	background-color: #000000;
+	width: 100%;
+}
+#nav1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+body{
+        font-family: 'Lato', serif;
+        font-size: 20px;
+        background-color: #F5F5F5;
+
+}
+.navbar-brand{
+	font-size: 30px;
+	padding-left: 30px;
+
+}
+#myCarousel{
+	max-width: 100%;
+	align :center
+}
+
+
+.carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+      max-height: 400px !important;
+
+  }
+
+   #sidebar{
+  	margin-top: 10px;
+  	background-color: #FFFFFF;
+
+  }
+
+  #mainbar{
+  	margin-top: 10px;
+  	background-color: #F5F5F5
+  }
+
+  #products_box{
+  	width: 780px;
+  	text-align: center;
+  	margin-bottom: 10px;
+  	margin-left: 30px;
+  }
+
+#single_product{
+	float: left;
+	margin-left: 20px;
+	padding: 10px;
+}
